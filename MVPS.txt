@@ -1,0 +1,6 @@
+,___id___.c.mystat-in.net,,1,MVPS,DNSBL_Malicious
+,huffingtonpost.crwdcntrl.net,,1,MVPS,DNSBL_Malicious
+,latinpost.us.intellitxt.com,,1,MVPS,DNSBL_Malicious
+,mobiletechreview.us.intellitxt.com,,1,MVPS,DNSBL_Malicious
+,pcbutts1-therealtruth.blogspot.com,,1,MVPS,DNSBL_Malicious
+,www.clickhouse.com,,1,MVPS,DNSBL_Malicious
