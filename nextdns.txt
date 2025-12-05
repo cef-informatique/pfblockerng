@@ -1,0 +1,1 @@
+,www.w3.org,,1,nextdns,DNSBL_nosafesearch
