@@ -1,0 +1,13 @@
+,adjust.io,,1,D_Me_Malv,DNSBL_Malicious
+,airbrake.io,,1,D_Me_Malv,DNSBL_Malicious
+,bango.combango.org,,1,D_Me_Malv,DNSBL_Malicious
+,basic-check.disconnect.me,,1,D_Me_Malv,DNSBL_Malicious
+,burstly.com,,1,D_Me_Malv,DNSBL_Malicious
+,custom-blacklisted-tracking-example.com,,1,D_Me_Malv,DNSBL_Malicious
+,getexceptional.com,,1,D_Me_Malv,DNSBL_Malicious
+,malware-check.disconnect.me,,1,D_Me_Malv,DNSBL_Malicious
+,mobileapptracking.com,,1,D_Me_Malv,DNSBL_Malicious
+,playtomic.com,,1,D_Me_Malv,DNSBL_Malicious
+,stathat.com,,1,D_Me_Malv,DNSBL_Malicious
+,supercell.net,,1,D_Me_Malv,DNSBL_Malicious
+,usergrid.com,,1,D_Me_Malv,DNSBL_Malicious
